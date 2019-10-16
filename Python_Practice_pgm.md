@@ -28,11 +28,6 @@ sentence_rev = " ".join(reversed(words))
 print (sentence_rev)
 ```
 
-Enter FirstName:Dinesh
-Enter lastName:Sekaran
-['Dinesh', 'Sekaran']
-Sekaran Dinesh
-
 ```
 Firstname=input("Enter FirstName:")
 Lastname=input("Enter lastName:")
@@ -46,7 +41,7 @@ print('Reverse name',str_v)
 print('Otherway :',Name[::-1])
 print('Another :',Name1)
 ```
-op:
+
 
 
 
