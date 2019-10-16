@@ -56,10 +56,11 @@ print(volume)
 
 
 # 4.Write a program which accepts a sequence of comma-separated numbers from console and generate a list
-#Write a program which accepts a sequence of comma-separated numbers from console and generate a list
+```
 L=input("Numbers:")
 print(L)
 print(type(L))
 print(L.split(" "))
 li=list(L.split(","))
 print(li)
+```
