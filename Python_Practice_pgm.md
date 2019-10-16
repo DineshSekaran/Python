@@ -48,8 +48,5 @@ print('Another :',Name1)
 ```
 op:
 
-Enter FirstName:Dinesh
-Enter lastName:Sekaran
-narakeS hseniD
-Otherway : narakeS hseniD
-Another : Sekaran Dinesh
+
+
