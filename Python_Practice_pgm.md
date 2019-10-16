@@ -41,7 +41,18 @@ print('Reverse name',str_v)
 print('Otherway :',Name[::-1])
 print('Another :',Name1)
 ```
-
+# 3.Write a Python program to find the volume of a sphere with diameter 12 cm
+```
+import math
+print(math.pi)
+PI=math.pi
+diameter=input("D: ")
+#print(type(diameter))
+r=int(diameter)/2
+print(type(r))
+volume=4/3*PI*(r**3)
+print(volume)
+```
 
 
 
