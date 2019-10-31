@@ -12,3 +12,19 @@ checking error, whereas as keyword is not required in Python 2.
 
 
 # Python as a Calculator
+print("Hello World")
+
+# Addition
+print(5+3)
+
+# Subtraction
+print(5-3)
+
+# Multiplication
+print(5*3)
+
+# Division
+print(5/3)
+
+# Modulo
+print(5%3)
