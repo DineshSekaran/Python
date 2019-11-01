@@ -20,7 +20,12 @@ checking error, whereas as keyword is not required in Python 2.
    
    There is no long/double
 
-
+# strings
+  Python Strings supports both ASCII and Unicode.
+  
+  Strings are immutable - This means once we have created a string we cannot
+change it
+  
 # Python as a Calculator
 print("Hello World")
 
