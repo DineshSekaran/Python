@@ -10,6 +10,14 @@ python2, used only raw_input() fort string and input() used for intger , if stri
    In Python 3, we need to use as keyword in except clause while
 checking error, whereas as keyword is not required in Python 2.
 
+# Literal Constants
+   Numeric literals are 5, 2.85 and  string literals are I am a string
+
+# Numbers
+   Numbers are 2 types (Integer and Float)
+   e Refers to Power 
+   ##There is no long/double
+
 
 # Python as a Calculator
 print("Hello World")
