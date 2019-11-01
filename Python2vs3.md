@@ -15,8 +15,10 @@ checking error, whereas as keyword is not required in Python 2.
 
 # Numbers
    Numbers are 2 types (Integer and Float)
+   
    e Refers to Power 
-   ##There is no long/double
+   
+   There is no long/double
 
 
 # Python as a Calculator
