@@ -24,11 +24,15 @@ print(x,y,z)
 
 # Variable Naming Conventions
 #A variable name must start with a letter or the underscore character
+
 stock ='AXIS'
+
 _name='HDFC'
 
 print(stock,_name)
 
 ##A variable name cannot start with a number.
+
 1stock='axis'
+
 print(stock)
