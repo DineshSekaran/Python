@@ -67,28 +67,40 @@ type(5.0)
 
 # To Know Types
 int(5.9)
+
 type(int(5.9))
+
 round(5.9)
+
 a=float(5)
+
 print(a)
+
 print(type(float(5)))
 
 # useful function is abs, which takes one numerical argument and returns its absolute value.
 abs(-5)
+
 print(abs(5))
+
 print(abs(5.0))
 
 # Scientfic Notation
 5e1
+
 5e-1
+
 5e2
 
 # Variable to hold value
 month_name='January'
+
 print(month_name)
 
 Error  
+
 month_name[0]='F'
+
 'str' object does not support item assignment
 
 # Concatenating two strings
@@ -96,30 +108,41 @@ print('January',',First month of Year')
 
 # Concatenating a variable and string
 stock_name='Aditya Birala'
+
 print(stock_name + " is the stock name.")
+
 #String Concatenation will be integer,Literals,Strings and Variables
 
 # f-strings or formatted string literal.
 #Use Variable in curly brackets{}
+
 print(f'The Stock Name',stock_name)
+
 print(f'{stock_name} is the stock name invested by Dinesh Sekaran')
 
 # %-formatting strings
 price=38.1
+
 print("%s is currently trading at the price %.2f" %(stock_name,price))
 
 #%s is used for specifying a string literal and %f is used to specify float literal.
 
 # format() function used for printing and constructing string for output
 stock_picker='Kotak'
+
 price=50.25
+
 print('i am intersted in {x},which is trading at {y}'.format(x=stock_picker,y=price))
+
 print('i am intersted in {},which is trading at {}'.format(stock_picker,price))
+
 print('i am intersted in {0},which is trading at {1}'.format(stock_picker,price))
+
 print('The stock trading at {1},which is {0}'.format(stock_picker,price))
 
 # Escape Sequence
 print("That's  Pretty easy task")
+
 print('That\'s  Pretty easy task')    #\ (backslash character
 #character to indicate that it is a part of the string
 
