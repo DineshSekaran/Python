@@ -36,3 +36,27 @@ print(stock,_name)
 1stock='axis'
 
 print(stock)
+
+## A variable name can only contain alpha-numeric characters(A-Z, a-z,0-9) and underscores( _ ).
+## It is a combination of a capital letter, alphabets and a number.
+
+stock='HDFC'
+
+Stock_name='HDFC'
+
+stock_1='HDFC'
+
+Stock_price_1=52
+
+print(stock,Stock_name,stock_1,Stock_price_1)
+
+## Variable names are case-sensitive
+STOCK='AXIS'
+
+Stock='DHFL'
+
+stock='KVB'
+
+print(STOCK,Stock,stock)
+
+#STOCK, stock and Stock all three are different variable names.
