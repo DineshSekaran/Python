@@ -51,6 +51,7 @@ Stock_price_1=52
 print(stock,Stock_name,stock_1,Stock_price_1)
 
 ## Variable names are case-sensitive
+## STOCK, stock and Stock all three are different variable names.
 STOCK='AXIS'
 
 Stock='DHFL'
@@ -59,4 +60,22 @@ stock='KVB'
 
 print(STOCK,Stock,stock)
 
-#STOCK, stock and Stock all three are different variable names.
+## Python keywords cannot be used as a variable name.
+
+is and for are not valid for variable. They are Reserved Words.
+
+is ='a'
+
+print(is)
+
+for ='FOR'
+
+print(for)
+
+# de facto method of creating variables
+
+Stock_Name
+
+
+# Data Types
+
