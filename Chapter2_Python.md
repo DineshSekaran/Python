@@ -78,4 +78,69 @@ Stock_Name
 
 
 # Data Types
+Primitive Data types of Python are
+Integer
 
+Float
+
+String
+
+Boolean
+
+
+# Data Types Integer
+total_months=12
+
+# FLoat
+Price=22.5
+
+# Boolean
+Buy=True
+
+print(Buy)
+
+# Equality Operator
+1==1
+
+1==-1
+
+1>-1
+
+## Boolean should written as True and False and not in Quotes.
+
+
+# String
+
+Sample_String='Nothing something'
+
+print(Sample_String)
+
+price_value='1.1'
+
+price_value_1=1.2
+
+print('The value is '+price_value)
+
+-------------------------------------
+
+# + operator works only on a string concatenation
+print('The value is '+price_value_1)
+
+Error can only concatenate str (not "float") to str
+
+# * operator with a string literal to produce the same string multiple times.
+
+Var_String='Python '
+
+print(Var_String*3)
+
+
+# Subtring/Slice/Inexing
+Var_String[0]
+
+Var_String[1]
+
+Var_String[0:3]
+
+
+# Operations on String
