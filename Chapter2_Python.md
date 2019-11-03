@@ -144,3 +144,32 @@ Var_String[0:3]
 
 
 # Operations on String
+
+Methods are
+upper()
+
+lower()
+
+strip() #method returns a string with whitespace removed from the start and end.
+
+isalpha() returns the boolean value True if all characters in a string are letters, False otherwise.
+
+isdigit() Integer checking
+
+startswith()
+
+find()
+
+replace()
+
+split()
+
+index()
+
+capitalize()
+
+count()
+
+# type() function
+
+
