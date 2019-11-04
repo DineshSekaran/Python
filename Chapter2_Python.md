@@ -99,6 +99,8 @@ Buy=True
 
 print(Buy)
 
+Internally, True is treated as 1 and False is treated as 0 in Python.
+
 # Equality Operator
 1==1
 
@@ -199,4 +201,32 @@ Tuples (())
 
 set ({})
 
+# Type Conversion
 
+Implicit Conversion  -->coercion
+
+Explicit Conversion -->Casting
+
+## Implicit Conversion
+z=4/2
+
+print(z)
+
+print(type(z))
+
+# Explicit Conversion
+## Integer to float conversion
+float(4)
+
+## String to float conversion
+float('4.2')
+
+## String to integer conversion
+int('4')
+
+## Float to string conversion
+str(4.2)
+
+## int(True)
+
+## bool(0)
