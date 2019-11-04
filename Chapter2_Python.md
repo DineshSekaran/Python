@@ -172,4 +172,31 @@ count()
 
 # type() function
 
+##String
+type('Python Handbook')
+##Float
+type(120.12)
+##Integer
+type(224)
+##Boolean
+type(True)
+##List
+type([1,2,3])
+##Dictionary
+type({'key':'value'})
+##Tuples
+city=('Chennai','Bangalore','Delhi','Mumbai')
+##set
+type({1, 2, 3})
+
+# Native Data Structures
+
+List    ([])
+
+Dictionary ({})
+
+Tuples (())
+
+set ({})
+
 
