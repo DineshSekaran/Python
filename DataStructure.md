@@ -93,3 +93,7 @@ Append LIFO (Last In First out)
 
 POP FIFO (First in First out)
 
+
+# Dictionaries
+
+A dictionary can be created either using the curly brackets {} or the method dict().
