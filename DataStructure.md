@@ -23,6 +23,12 @@ Array opeartion have reverse,append,pop
 
 # Tuples
 
+hold multiple values within them separated by commas.
+
+allows storing values of different types together. Tuples are immutable.
+
+sequence of elements that are accessed via unpacking or indexing
+
 It is a datatype, creating tuple using () and without () like 1,2,3.
 
 Accessing tuple elements
@@ -36,3 +42,37 @@ tupl = (1, 'a', 2.5)
 Tuple methods--> index and count
 
 # Lists
+
+Holds an ordered collections of items.store a sequence of items in a list.
+
+placing all items within square brackets [] separated by comma
+
+Store different data types.
+
+lists are mutable.
+
+## append(element) method adds a single element to the end of the list.
+It does not return the new list, just modifies the original list.
+
+It will add as new element
+## extend(list2) method adds the elements in list2 to the end of the
+list.
+
+## List Manipulation
+
+Insert
+
+Remove
+
+pop
+
+count
+
+index
+
+sort
+
+reverse
+
+it will extend in existing list
+
