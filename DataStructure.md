@@ -76,3 +76,20 @@ reverse
 
 it will extend in existing list
 
+
+# Stacks and Queues
+LIFO      FIFO
+
+To add an item to the top of the stack, we use the append()
+
+to retrieve an item from the top of the stack, we use the pop()
+
+stack = [1, 5, 6]
+
+
+# Import 'deque' module from the 'collections' package
+
+Append LIFO (Last In First out)
+
+POP FIFO (First in First out)
+
