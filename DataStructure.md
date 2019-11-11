@@ -97,3 +97,33 @@ POP FIFO (First in First out)
 # Dictionaries
 
 A dictionary can be created either using the curly brackets {} or the method dict().
+
+unordered collection of items. It stores data in key-value pairs
+
+e.g dictionary = {key1 : value1, key2 : value2, key3 : value3}
+
+ Values of a dictionary can be either mutable or immutable objects. Dictionaries that we create are instances 
+ of the dict class and they are unordered.
+ 
+ Creating and accessing dictionaries
+ 
+ ## Dictionary Methods
+ len
+ 
+ del,copy,clear
+
+ items,keys,values
+ 
+ update
+ 
+ # Sets
+ 
+   A set is an unordered and unindexed collection of items. It is a collection data type which is mutable, iterable and contains no duplicate values.
+   
+   Add,Remove,Update,len,discard,clear,len 
+   
+   
+  Methods
+  
+  union,Intersection,difference,issubset etc
+ 
