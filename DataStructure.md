@@ -123,7 +123,12 @@ e.g dictionary = {key1 : value1, key2 : value2, key3 : value3}
    Add,Remove,Update,len,discard,clear,len 
    
    
-  Methods
+  ## Methods
   
   union,Intersection,difference,issubset etc
  
+## Set Methods Boolean
+
+issubset()
+isdisjoint()
+issuperset()
