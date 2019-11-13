@@ -49,19 +49,32 @@ Not in
  
  
  
- Operators Precedence
+ # Operators Precedence
+ 
 () Parentheses
+
 ** Exponential
+
 +, -, ~ Positive, Negative, Bitwise NOT
-*, /, //, % Multiplication, Division,
-Floor Division, Modulus
+
+*, /, //, % Multiplication, Division,Floor Division, Modulus
+
 +, - Addition, Subtraction
+
 <,> Bitwise Left, Bitwise Right
+
 & Bitwise AND
+
 ^ Bitwise XOR
+
 | Bitwise OR
-==, !=, >, >=, <, <=, Comparison, Identity,
-is, is not, in, not in Membership Operators
+
+==, !=, >, >=, <, <=,       Comparison, Identity
+
+is, is not, in, not in      Membership Operators
+
 not Logical NOT
+
 and Logical AND
+
 or Logical OR
