@@ -16,7 +16,6 @@ Step: Optional default is 1,explict incrmentation
 ## While
 
 
-Looping through lists,Dictionary,strings
 
 
 # Loop control statements
@@ -32,3 +31,10 @@ Stop iteration at given point
 ## continue
  
  skip the current iteration and continue with the next iteration
+
+
+# List comprehensions
+create a list in Python. It is used to create a new list from another sequence
+
+Note:
+Looping can be through lists,Dictionary,strings.....
