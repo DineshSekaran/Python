@@ -16,4 +16,19 @@ Step: Optional default is 1,explict incrmentation
 ## While
 
 
-Looping through lists
+Looping through lists,Dictionary,strings
+
+
+# Loop control statements
+
+## pass
+
+alter the execution flow
+
+## break
+
+Stop iteration at given point
+
+## continue
+ 
+ skip the current iteration and continue with the next iteration
