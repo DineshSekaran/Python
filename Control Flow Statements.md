@@ -36,5 +36,5 @@ Stop iteration at given point
 # List comprehensions
 create a list in Python. It is used to create a new list from another sequence
 
-Note:
+# Note:
 Looping can be through lists,Dictionary,strings.....
