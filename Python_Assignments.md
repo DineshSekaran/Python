@@ -1,3 +1,5 @@
+https://automatetheboringstuff.com/chapter6/
+
 #1.Write a program which will find all such numbers which are divisible by 7 but are not a multipleof 5, between 2000 and 3200 (both included). The numbers obtained should be printed in acomma-separated sequence on a single line
 ```
 s=2000
