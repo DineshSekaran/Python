@@ -1,0 +1,7 @@
+ 
+ # To get Multiple Input
+ map(int, input().split())
+ 
+ list(map(int, input().split()))
+ 
+ list(map(int, input().split(',')))
